@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f5f5f5;
+  color: #333;
+}
+
+header {
+  background: #003057;
+  color: white;
+  text-align: center;
+  padding: 2em 1em;
+}
+
+section {
+  padding: 2em 10%;
+  background: white;
+  margin: 1em 0;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #003057;
+  color: white;
+}
+
+a {
+  color: #d1410c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
