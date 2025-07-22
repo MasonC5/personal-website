@@ -2,8 +2,8 @@
 
 Welcome to my personal portfolio website! This site showcases who I am, what I study, and what I’ve worked on.
 
-🚀 **Live Site:** [https://yourusername.github.io/personal-website/](https://yourusername.github.io/personal-website/)  
-📫 **Contact:** your.email@clemson.edu
+🚀 **Live Site:** [https://MasonC5.github.io/personal-website/](https://MasonC5.github.io/personal-website/)  
+📫 **Contact:** macaste@clemson.edu | masoncastellan@icloud.com
 
 ---
 
@@ -12,12 +12,4 @@ I’m a junior at Clemson University majoring in Industrial Engineering with a m
 
 ---
 
-## 🧰 Tech Stack
-
-- HTML5
-- CSS3
-- Git & GitHub
-- GitHub Pages (Hosting)
-
----
 
